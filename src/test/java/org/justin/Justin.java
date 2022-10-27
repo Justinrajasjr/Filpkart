@@ -16,7 +16,7 @@ public class Justin {
 		System.out.println(ju);
 		System.out.println("hai from cloud");
 		
-		
+		System.out.println("hai from local");
 	}
 
 }
